@@ -1,2 +1,2 @@
-# Project_1
-Learning Data Science and Machine Learning
+# Heart Disease Prediction
+A model will created using Supervise Learning Algorithm.
